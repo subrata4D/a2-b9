@@ -1,0 +1,14 @@
+@media screen and (max-with:676px)
+ {
+
+.header-section{
+     flex-direction: column;
+     margin-left: 50px;
+}
+.items-container{
+     flex-direction: column;
+     margin-left: 50px;
+     gap: 10px;
+
+}
+}

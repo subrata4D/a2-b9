@@ -76,3 +76,13 @@
  .items-container .home{
      color:#FF5400; 
 }
+.text-button{
+     width: 174px;
+     height: 52px;
+}
+.text-button button{
+    
+     border-radius: 8px;
+     
+}
+

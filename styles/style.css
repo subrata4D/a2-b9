@@ -385,15 +385,15 @@
    max-width: 1250px;
    margin: 0 auto;
    /* background-color: rebeccapurple; */
-   min-height: 400px; 
+   min-height: 500px; 
    display: flex; 
 }
 .travle-one{
-     border: 2px solid gold;
+     /* border: 2px solid gold; */
      width: 50%;
 }
 .travel-two{
-     border: 2px solid aqua;
+     /* border: 2px solid aqua; */
      width: 50%;
 }
 .travel-two img{
@@ -433,4 +433,91 @@
     font-weight: 800;
     text-align: center;
 
+}
+.banner-text-finsh{
+     max-width: 1250px;
+     margin: 0 auto;
+     /* background-color: aquamarine; */
+     min-height: 450px; 
+     display: flex;
+      
+}
+.banner-text-finshs-one{
+     border: 1px solid  #FF5400;
+     width: 50%;
+     border: radius 1px;;
+}
+.banner-img-finsh-one{
+     /* border: 1px solid aqua; */
+     width: 50%;
+     position: relative;
+}
+.banner-img-finsh-one img{
+     width: 100%;
+     height: 100%;
+
+}
+.banner-text-finshs-one h3{
+     color: #131318;
+     font-size: 24px;
+     font-weight: 800;
+     
+}
+.banner-text-finshs-one p{
+     width: 350px;
+     color: #5A5A5D;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 26px;
+}
+.banner-text-finshs-one input{
+     width: 393px;
+     height: 52px;
+     border-radius: 8px;
+     background: rgba(19, 19, 24, 0.05);
+}
+.banner-text-finshs-one .button-red{
+     background-color:#FF5400;
+}
+.discound{
+     width: 200px;
+     height: 70px;
+     background-color: #FF5400;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #FFF;
+     position: absolute;
+     left: 50%;
+     bottom: 20%;
+}
+/* footer */
+.gred{
+     max-width: 1250px;
+     max-height: 300;
+     /* background-color: khaki */
+     display: flex;
+
+}
+.gred-one{
+          
+          min-height: 20px;
+          display: flex;
+          align-items: center;
+          /* border: 2px solid blue; */
+          width: 100%;
+          align-items: center;
+}
+.gred-one .coller{
+     color: #FF5400;
+     font-size: 32px;
+     font-weight: 800;
+}
+.gred-one .font{
+     color: #5A5A5D;
+     text-align: center;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 26px;
+     
 }
